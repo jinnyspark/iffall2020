@@ -1,0 +1,75 @@
+h1 {
+    font-size:50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold;
+    color: skyblue;
+}
+
+h2{
+    font-size:30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold;
+    color:rgb(38, 58, 114);
+}
+
+.Venkman{
+    font-size: 18px;
+    font-weight:bold;
+    color: green;
+}
+
+.Barrett{
+    font-size: 18px;
+    font-weight:bold;
+    color: lightsalmon;
+}
+
+.Mayor{
+    font-size: 18px;
+    font-weight:bold;
+    color:rgb(98, 179, 255);
+}
+
+.Stantz{
+    font-size:18px;
+    font-weight:bold;
+    color: lightseagreen;
+}
+
+.Spengler{
+    font-size:18px;
+    font-weight:bold;
+    color:rgb(132, 145, 223);
+}
+
+.Zeddemore {
+    font-size:18px;
+    font-weight:bold;
+    color:rgb(250, 200, 135);
+}
+
+.first{
+    font-size:18px;
+    line-height:10px;
+    padding-bottom: -1;
+}
+
+.second{
+    font-size:18px;
+    line-height:10px;
+}
+
+.third{
+    font-size:18px;
+    line-height:10px;
+}
+
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+body{
+    background-color: black;
+    margin-left: 1cm;
+}
