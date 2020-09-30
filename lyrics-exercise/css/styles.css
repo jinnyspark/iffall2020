@@ -1,0 +1,41 @@
+h1{
+    font-size: 60px;
+    font-family:'Abril Fatface', cursive;
+    font-weight:bold;
+    color:rgb(56, 41, 13);
+    margin-left: 4cm;
+}
+
+h2{
+    font-size:50px;
+    font-family: 'Abril Fatface', cursive;
+    font-weight:bold;
+    color:rgb(112, 72, 19);
+    margin-left:4cm; 
+}
+
+a{
+    font-size:30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:bold;
+    color:rgb(180, 128, 30);
+    margin-left: 4cm;
+}
+
+body{
+    background-color:orange;
+}
+
+p{
+    font-size: 20px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight:regular;
+    color:rgb(121, 85, 31);
+    margin-left:4cm;
+}
+
+img{
+    margin-left:4cm;
+    margin-top:2cm;
+}
+
