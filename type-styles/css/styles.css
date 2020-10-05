@@ -1,0 +1,78 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+    margin: 10%;
+}
+
+p{
+    line-height: 0.3cm;  
+    font-size: 16px;
+ }
+
+h1{
+    font-size:50px;
+    color:rgb(12, 61, 136);
+    margin-bottom:1.2cm; 
+}
+
+h2{
+    font-size:16px;
+    color:rgb(37, 77, 189);
+    line-height:0.4cm; 
+}
+
+h3{
+    color:rgb(112, 228, 179);
+}
+
+h4 {
+    color:rgb(132, 105, 230);
+    font-size: 14px;
+}
+
+.normal {
+    font-weight:normal;
+    font-style: normal;
+    letter-spacing:normal
+}
+
+.bold {
+    font-weight:bold;
+}
+
+.italic {
+    font-style:italic;
+}
+
+.three-em {
+    letter-spacing: .3em;
+}
+
+.neg em {
+    letter-spacing:-0.6em;
+}
+
+.underline {
+    text-decoration:underline;
+}
+
+.line-through{
+    text-decoration:line-through;
+}
+
+.overline {
+    text-decoration:overline;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.lowercase {
+    text-transform: lowercase;
+}
+
+.capitalize {
+    text-transform: capitalize;
+}
+
+
