@@ -1,0 +1,54 @@
+html {
+    font-family: azo-sans-web, sans-serif;
+}
+
+main {
+    margin-left: 20cm;
+    margin-top:0.5cm;
+}
+
+h1{
+    font-style: bold italic;
+    font-size: 120px;
+    text-align:left;
+    color:rgb(35, 128, 214);
+    line-height:1.4cm;
+    margin-left: 2.5cm;
+}
+
+h2{
+    font-weight: 700;
+    font-style: italic;
+    font-size: 80px;
+    color:rgb(53, 174, 221);
+    line-height:0.5cm;
+    text-align:left;
+    margin-left:2.5cm;
+    margin-bottom: 3cm;
+    line-height:0.8cm; 
+}
+
+.verse{
+    color:rgb(0, 50, 143);
+}
+
+.prechorus{
+    color:rgb(50, 93, 173);
+}
+
+.chorus {
+    color:rgb(5, 48, 97);
+}
+
+section {
+    line-height:0.6cm;
+    margin-right:2.5cm;
+}
+
+img{
+    margin-left:2.5cm;
+}
+
+body{
+    background-image:url("orange-gradient.jpg");
+}
