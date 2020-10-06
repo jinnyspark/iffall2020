@@ -52,3 +52,12 @@ img{
 body{
     background-image:url("orange-gradient.jpg");
 }
+
+A {
+    color:rgb(167, 191, 236);
+    margin-left: 2.5cm;
+    font-weight:bold;
+    font-size: 30px;
+    margin-bottom: 2cm;
+    text-decoration:none;
+}
