@@ -1,0 +1,137 @@
+body{
+    font-family: 'Archivo Narrow', sans-serif;
+}
+
+header{
+    text-align: center;
+    background-image: url(https://www.nationalgeographic.com/content/dam/adventure/photos/2017/stories/eric-sterman-aerial-surfing/aerial-seven-mile-miracle-north-shore-hawaii-aerial.adapt.1900.1.jpg);
+    background-size: cover;
+    background-position: center;
+    padding-top: 150px;
+    height: 330px;   
+}
+
+h1 {
+    font-size: 50pt; 
+    margin-bottom: 1px; 
+    color: navy;
+}
+
+h2 {
+    margin-top: 1px; 
+    font-size: 30pt; 
+    color: navy;
+}
+
+.column-container{
+    margin: auto;
+    width: 800px;
+}
+
+.section-one {
+    background-color: lightblue;
+    padding-bottom: 30px;
+    padding-top: 1px; 
+    font-size: 17px;
+    color: black; 
+}
+
+.turtle { 
+    width: 40%;
+    height: 30%; 
+    object-fit: cover; 
+    float: right;
+   padding-left: 40px;
+} 
+
+h3{
+    text-align: center;
+    font-size: 30pt;
+    color: navy;
+
+}
+
+.section-two {
+    text-align: center;
+    background-color: skyblue; 
+    padding-bottom: 30px;
+    padding-top: 5px; 
+}
+
+.grids {
+    display: grid;
+    grid-template-columns: 1fr 1fr; 
+    padding:0;
+    list-style-type: none;
+}
+
+
+.grids li{
+    padding-bottom: 8px; 
+   
+} 
+
+
+.grid-image {
+    width: 55%;
+    height: 40%; 
+    float:left; 
+    margin-right: 1.5rem; 
+    object-fit: cover; 
+    
+}
+
+.photo-title {
+    font-size: 13pt; 
+    text-align: left; 
+    margin-bottom: 1px; 
+    
+    
+}
+
+.photo-text {
+   font-size: 13pt; 
+   text-align: left; 
+   width: 90%; 
+   margin-left: 2rem; 
+   margin-bottom: 30px; 
+}
+
+.section-three{
+    background-color: rgb(46, 110, 161);
+    text-align: center;
+    padding-bottom: 67px;
+    padding-top: 40px; 
+}
+
+.last-section-title {
+    font-size: 50pt; 
+    margin-bottom: 1rem; 
+    margin-top: 2rem; 
+}
+
+.end-text{
+    text-align: center; 
+    font-size: 20pt; 
+    width: 60%; 
+    margin-left: 330px; 
+}
+
+footer {
+    background-color: rgb(17, 36, 66);
+    padding-top: 37px; 
+    padding-bottom: 37px; 
+    color: white; 
+}
+
+.footer{
+    margin-left: 8rem;  
+    font-size: 15pt; 
+}
+
+
+
+
+
+
+
