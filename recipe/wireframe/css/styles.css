@@ -1,12 +1,16 @@
 img {
-    max-width: 100%;  
+    width: 80%;  
+
 }
 
+header {
+    font-size: 12pt; 
+}
 
 body {
     max-width: 960px; 
     margin: auto; 
-    font-size: 14pt; 
+    font-size: 12pt; 
 }
 
 @media (min-width: 640px){
@@ -26,7 +30,3 @@ div {
     width: 80%; 
 }
 
-.ingredients ul {
-    margin-left: 0px; 
-    list-style-type: none;
-}
