@@ -1,0 +1,32 @@
+img {
+    max-width: 100%;  
+}
+
+
+body {
+    max-width: 960px; 
+    margin: auto; 
+    font-size: 14pt; 
+}
+
+@media (min-width: 640px){
+    .main {
+        display: flex; 
+        margin: 1px; 
+    }
+}
+
+
+li {
+    list-style-type: none;
+    line-height: 25px; 
+}
+
+div {
+    width: 80%; 
+}
+
+.ingredients ul {
+    margin-left: 0px; 
+    list-style-type: none;
+}
