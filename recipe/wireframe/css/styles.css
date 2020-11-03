@@ -30,3 +30,13 @@ div {
     width: 80%; 
 }
 
+.ingredients li {
+    width: 100%; 
+    list-style-type: circle; 
+
+}
+
+.instructions li {
+    width: 100%; 
+}
+
