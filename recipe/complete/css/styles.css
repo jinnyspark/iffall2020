@@ -1,0 +1,96 @@
+img {
+    width: 50%;  
+    float: left; 
+    margin: auto -200px; 
+    padding-top: 30px; 
+}
+
+h1{
+    text-align: center;
+    font-size: 30pt; 
+    font-family: gastromond, sans-serif; 
+    color: rgb(71, 46, 0); 
+    
+}
+header {
+    text-align: center; 
+    font-size: 12pt; 
+    
+}
+
+body {
+    max-width: 960px; 
+    margin: auto; 
+    font-size: 12pt; 
+    background-color: rgb(255, 226, 183);
+}
+
+@media (min-width: 640px){
+    .main {
+        display: flex; 
+        margin: 1px; 
+    }
+}
+
+
+li {
+    list-style-type: none;
+    line-height: 25px; 
+}
+
+div {
+    width: 80%; 
+}
+
+.ingredients li {
+    width: 90%; 
+    list-style-type: circle; 
+    font-family: niveau-grotesk, sans-serif;
+    font-size: 14pt; 
+    font-weight: 400;
+    line-height: 30px; 
+    color:rgb(131, 107, 71);
+}
+
+.instructions li {
+    width: 200%;
+    font-family: niveau-grotesk, sans-serif;
+    font-size: 14pt; 
+    font-weight: 400;
+    line-height: 30px; 
+    color:rgb(131, 107, 71);
+
+}
+
+.ingredients {
+    margin-left: 300px; 
+    float:right; 
+    width: 200%; 
+}
+
+
+
+p{
+    font-family: niveau-grotesk, sans-serif;
+    font-size: 16pt; 
+    font-weight: 500;
+    font-style: normal;
+    line-height: 30px; 
+    color:rgb(204, 169, 117);
+    width: auto; 
+}
+
+a{
+    text-decoration:none; 
+    font-style: italic;
+    color:rgb(204, 169, 117);
+}
+
+h2{
+    font-family: niveau-grotesk, sans-serif;
+    font-size: 20pt; 
+    font-weight: 700;
+    color: rgb(71, 46, 0);
+    margin-left: 40px; 
+}
+
