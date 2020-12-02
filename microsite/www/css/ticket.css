@@ -1,0 +1,55 @@
+h1{
+    width: 100%;
+    height: 110px; 
+    text-align: center;
+    font-size: 50pt; 
+    color: rgb(30, 37, 104);
+    margin-bottom: 0; 
+    margin-top: 0;  
+}
+
+li {
+    list-style-type: none; 
+}
+
+section div{
+    font-weight: bold; 
+    font-size: 25pt; 
+    
+}
+
+
+.location {
+    font-size: 18pt; 
+    line-height: 70px; 
+}
+
+.dates {
+    font-size: 18pt; 
+    line-height: 70px; 
+    margin-left: 450px; 
+    margin-top: -513px; 
+}
+
+.venue {
+    font-size: 18pt; 
+    line-height: 70px; 
+    margin-left: 850px; 
+    margin-top: -513px; 
+}
+
+.ticket{
+    font-size: 18pt; 
+    line-height: 70px; 
+    margin-left: 1400px; 
+    margin-top: -513px; 
+}
+
+.chart {
+    color: rgb(255, 217, 0); 
+    position: relative; 
+    height: 100%;
+    width: 100%; 
+    background-color:  rgb(30, 37, 104);  
+    z-index: -1; 
+}

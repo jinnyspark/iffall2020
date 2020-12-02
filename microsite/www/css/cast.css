@@ -1,0 +1,39 @@
+h1{
+    width: 100%;
+    height: 110px; 
+    text-align: center;
+    font-size: 50pt; 
+    color: rgb(30, 37, 104);
+    margin-bottom: 0; 
+    margin-top: 0;  
+}
+
+.cast-images li {
+    display: inline-block; 
+    text-align: center; 
+    margin-left: 43px; 
+}
+
+.cast-images img{
+    width: 250px; 
+    height: 300px; 
+    position: relative; 
+    object-fit: cover; 
+}
+
+div {
+    color:  rgb(30, 37, 104); 
+}
+.actor {
+    font-weight: bold; 
+    font-size: 18pt; 
+}
+
+.char {
+    font-style: italic; 
+    font-size: 16pt; 
+}
+
+img:hover{
+    box-shadow: 0 0 20px rgb(255, 217, 0); 
+}
