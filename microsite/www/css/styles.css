@@ -38,3 +38,7 @@ a {
     text-decoration: none; 
     color: rgb(255, 217, 0); 
 }
+
+section li:hover{
+    font-size: 130%; 
+}

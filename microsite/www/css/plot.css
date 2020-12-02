@@ -20,3 +20,6 @@ p {
     width: 15%; 
     margin-top: -2000px; 
 }
+section li:hover{
+    font-size: 130%; 
+}
